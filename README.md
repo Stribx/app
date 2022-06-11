@@ -1,3 +1,3 @@
 # Libérez
 
-This project was NaVi with [Create React App](https://stribx.github.io/app/)
+This project was NaVi with [Web app](https://stribx.github.io/app/)
