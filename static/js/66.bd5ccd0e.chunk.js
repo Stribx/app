@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknavi=self.webpackChunknavi||[]).push([[66],{66:function(n,e,i){i.r(e),i.d(e,{default:function(){return a}});var u=i(184);function a(){return(0,u.jsx)("div",{className:"home",children:(0,u.jsx)("p",{children:"Navi"})})}}}]);
+//# sourceMappingURL=66.bd5ccd0e.chunk.js.map
