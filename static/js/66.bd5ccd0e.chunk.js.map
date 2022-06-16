@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/66.bd5ccd0e.chunk.js","mappings":"wJAAe,SAASA,IACpB,OACA,gBAAKC,UAAU,OAAf,UACI","sources":["pages/Navi.js"],"sourcesContent":["export default function Navi() {\r\n    return (\r\n    <div className='home'>\r\n        <p>Navi</p>\r\n    </div>\r\n  );\r\n}"],"names":["Navi","className"],"sourceRoot":""}
